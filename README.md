@@ -23,11 +23,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ### **Languages & Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postgres,mongodb" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,hardhat,vercel,postman,linux" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,devops,hyperledger,apache,spark" />
-  <img src="https://skillicons.dev/icons?i=istio,kyverno,hyperledger" />
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css" /> <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postgres,mongodb" /> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,vercel,postman,linux" /> <img src="https://skillicons.dev/icons?i=kubernetes,devops,hyperledger" /> </div>
 </div>
 
 ---
