@@ -33,9 +33,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ## 📜 Certifications
 
-- **Neetcode Advanced Algorithms**
-- **GitHub Skills: Automate workflows with GitHub Actions**
-- **Solidity & Blockchain Development** (Ethereum & Web3)
+- **AWS Academy Cloud** //currently
 
 ---
 
