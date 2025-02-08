@@ -23,20 +23,23 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ### **Languages & Technologies**
 <div align="center">
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css,aws,gcp,azure" /> <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postgres,mongodb" /> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,vercel,postman,linux" /> <img src="https://skillicons.dev/icons?i=kubernetes,devops,hyperledger" /> </div>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,vercel,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,devops,hyperledger" />
 </div>
 
 ---
 
 ## 📜 Certifications
 
-- **AWS Academy Cloud** //currently enrolled
+- **AWS Academy Cloud** _(Currently Enrolled)_
 
 ---
 
 ## 🚀 Currently Learning
 
-📌 Exploring the ways of **Web Development** and **Cloud Computing** through the **AWS Academy**.
+📌 Exploring the ways of **Web Development** and **Cloud Computing** through **AWS Academy**.
 
 ---
 
@@ -53,7 +56,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nvm-seff&theme=github_dark" />
   <img src="https://github-profile-trophy.vercel.app/?username=Nvm-seff&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nvm-seff&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nvm-seff&theme=github-dark&hide_border=true" />
 </div>
 
 📌 _Let's connect and build something amazing together!_ 🚀
