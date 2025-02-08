@@ -24,7 +24,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 ### **Languages & Technologies**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css" />
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,firebase,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=HyperLedger,docker,git,github,firebase,postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,hardhat,vercel,postman,linux" />
 </div>
 
