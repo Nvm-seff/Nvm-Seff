@@ -5,10 +5,11 @@ A driven **Computer Science** and **Web3 Enthusiast** passionate about solving t
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nvm-seff&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=green_nur&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=green_nur&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvm-seff&layout=compact&theme=green_nur&hide_border=true" alt="Top Languages"/>
+</div>
 
 ---
 
@@ -21,30 +22,17 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 ## 🛠️ Technical Skills
 
 ### **Languages & Technologies**
-
-- **Programming Languages**: C, C++, C# .NET, JavaScript (ReactJS, Next.js), Python, Solidity
-- **Databases**: MongoDB, PostgreSQL, SQL
-- **Frameworks & Libraries**: TailwindCSS, Express.js, Node.js
-- **Blockchain & Web3**: Smart Contracts, Solidity, Hardhat, Ethers.js
-- **Tools & Software**: Git, GitHub, Linux, Docker, Postman, Firebase, Vercel
-- **Core Competencies**: Full Stack Web Development, Smart Contract Development, Database Management, Version Control, API Integrations
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,firebase,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,hardhat,vercel,postman,linux" />
+</div>
 
 ---
 
 ## 📜 Certifications
 
-- **AWS Academy Cloud** //currently
-
----
-
-
-### Languages and Tools 🚀
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+- **AWS Academy Cloud** //currently enrolled
 
 ---
 
@@ -58,7 +46,10 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 ---
 
 ## 🚀 Contributions
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nvm-seff&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nvm-seff&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nvm-seff&theme=github-compact&hide_border=true" />
+</div>
 
 📌 _Let's connect and build something amazing together!_ 🚀
