@@ -48,7 +48,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 - **Email**: saifullah.rizv@gmail.com
 - **GitHub**: [Nvm-seff](https://github.com/Nvm-seff)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/nvm-saifullah)
-- **LeetCode**: [LeetCode Profile](https://leetcode.com/Nvm-seff/)
+- **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Nvm_seff/)
 
 ---
 
