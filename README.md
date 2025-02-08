@@ -40,7 +40,7 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ## 🚀 Currently Learning
 
-📌 Exploring the ways of ** Web Development** and **Cloud Computing** through the **AWS Academy**.
+📌 Exploring the ways of **Web Development** and **Cloud Computing** through the **AWS Academy**.
 
 ---
 
