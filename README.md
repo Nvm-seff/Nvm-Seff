@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saifullah Rizvi 
 
-A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Full Stack Development**, **Blockchain Technologies**, and **Software Engineering**.
+A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Cloud Computing**, **Blockchain Technologies**, and **Software Engineering**.
 
 ---
 
