@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saifullah Rizvi (Nvm-Seff)
+# Hi 👋, I'm Saifullah Rizvi 
 
 A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Full Stack Development**, **Blockchain Technologies**, and **Software Engineering**.
 
