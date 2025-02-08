@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saifullah Rizvi 
+# Hi 👋, I'm Saifullah Rizwan
 
 A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Cloud Computing**, **Blockchain Technologies**, and **Software Engineering**.
 
