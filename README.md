@@ -6,9 +6,9 @@ A driven **Computer Science** and **Web3 Enthusiast** passionate about solving t
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=green_nur&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=green_nur&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvm-seff&layout=compact&theme=green_nur&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvm-seff&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -26,20 +26,20 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,html,css,aws,gcp,azure" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,solidity,vercel,postman,linux" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,devops,hyperledger" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,devops" />
 </div>
 
 ---
 
 ## 📜 Certifications
 
-- **AWS Academy Cloud** _(Currently Enrolled)_
+- **AWS Academy Cloud** //currently enrolled
 
 ---
 
 ## 🚀 Currently Learning
 
-📌 Exploring the ways of **Web Development** and **Cloud Computing** through **AWS Academy**.
+📌 Exploring the ways of **Web Development** and **Cloud Computing** through the **AWS Academy**.
 
 ---
 
