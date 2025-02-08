@@ -37,6 +37,17 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ---
 
+
+### Languages and Tools 🚀
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+---
+
 ## 📫 Find Me
 
 - **Email**: saifullah.rizv@gmail.com
