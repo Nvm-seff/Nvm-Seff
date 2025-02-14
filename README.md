@@ -4,6 +4,15 @@ A driven **Computer Science** and **Web3 Enthusiast** passionate about solving t
 
 ---
 
+## 🚀 Contributions
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nvm-seff&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nvm-seff&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nvm-seff&theme=github-dark&hide_border=true" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
@@ -52,11 +61,5 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ---
 
-## 🚀 Contributions
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nvm-seff&theme=github_dark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Nvm-seff&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nvm-seff&theme=github-dark&hide_border=true" />
-</div>
 
 📌 _Let's connect and build something amazing together!_ 🚀
