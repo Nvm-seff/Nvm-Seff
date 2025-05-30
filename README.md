@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saifullah Rizwan
 
-A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Cloud Computing**, **Blockchain Technologies**, and **Software Engineering**.
+A driven **Computer Science** and **Web3 Enthusiast** passionate about solving technical challenges, particularly drawn to **Artificial Intelligence / Machine Learning**, **Blockchain Technologies**, and **Software Engineering**.
 
 ---
 
@@ -42,13 +42,13 @@ Check out my repositories for more projects: [GitHub Repositories](https://githu
 
 ## 📜 Certifications
 
-- **AWS Academy Cloud** //currently enrolled
+- **AWS Academy Cloud Fundamentals** ✅
 
 ---
 
 ## 🚀 Currently Learning
 
-📌 Exploring the ways of **Web Development** and **Cloud Computing** through the **AWS Academy**.
+📌 Exploring the ways of **Web Development** and **Open Sourced Voice TTS Models**.
 
 ---
 
