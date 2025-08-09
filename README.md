@@ -13,14 +13,7 @@ A driven **Computer Science** and **Web3 Enthusiast** passionate about solving t
 
 ---
 
-## 📊 GitHub Stats
-##<div align="center">
-##  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvm-seff&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-##  <img src="https://github-readme-stats.vercel.app/api?username=Nvm-seff&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats"/>
-##  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvm-seff&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages"/>
-##</div>
 
----
 
 ## 🔭 Some of My Projects
 
